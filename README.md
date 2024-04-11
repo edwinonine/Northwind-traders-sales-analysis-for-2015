@@ -44,7 +44,7 @@ the image below shows the relationships of the necessary datasets that were requ
 
 ## Analyzing and visualization
 In answering the business questions, i carried out descriptive analysis in order to understand the datasets after data modelling was done. The following were insights derived for the first quarter in 2015: 
-1. revenue(sales) for 2015 was $441,000
+1. Revenue (sales) for 2015 was $441,000
 2. The average revenue(sales) was $63800
 3. Total quantity was 16000
 4. Total order 270000
