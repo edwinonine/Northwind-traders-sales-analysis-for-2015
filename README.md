@@ -14,3 +14,12 @@ In carrying out the analysis certain skiils were demonstrated in analyzing and d
 
 ## Data sourcing
 I had to task myself to review, analyze and create visuals for a dataset obtained on google drive which was provide by data-nex instructor. the dataset is about of northwind traders. The reason for the analysis is to understand sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. 
+
+## Data transformation and data cleaning
+In ensuring quality and reliability of the dataset. Columns were checked for duplicates, checked for inconsistencies, errors, and inaccuracies, blank cells and outliers within the dataset. The following were keys steps used in ensuring the dataset was ready for analysis.
+1. Data quality
+2. Data integrity
+3. Check for duplicate values
+4. Check for missing values
+5. Data modelling
+6. Application of dax functions (calculated fields and new columns)
