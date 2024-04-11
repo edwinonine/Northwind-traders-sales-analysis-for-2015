@@ -27,9 +27,16 @@ In ensuring quality and reliability of the dataset. Columns were checked for dup
 ## Data cleaning process
 After reviewing the datasets, it was discovered that the employees dataset has blank cells (null value), other datasets has duplicate values which was necessary i checked for data quality of all the datasets provided. the data cleaning process was done using power query.
 
-### image
+### image 1
 The screenshots below show the data cleaning process before proper analysis was done.
 
-![]()
-![]()
-![]()
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Capture.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/actual%20null%20change.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Null%20values%20data%20entry.PNG)
+
+## Data modeling
+### image 2
+In the course of the analysis in other to derive insights in answering the business questions.the datasets were modelled thereby creating relationships in order to derive more insights.
+the image below shows the relationships of the necessary datasets that were required in answering the business questions.
+
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/modelling.PNG)
