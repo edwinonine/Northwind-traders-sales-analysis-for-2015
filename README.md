@@ -43,7 +43,7 @@ the image below shows the relationships of the necessary datasets that were requ
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/modelling.PNG)
 
 ## Analyzing and visualization
-In answering the business questions, descriptive analysis in order to understand the datasets after data modelling was done. its was discovered that the total number of 
+In answering the business questions, i carried out descriptive analysis in order to understand the datasets after data modelling was done. The following were insights derived: 
 1. revenue(sales) for 2015 was $441,000
 2. The average revenue(sales) was $63800
 3. Total quantity was 16000
