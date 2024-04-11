@@ -13,7 +13,8 @@ Northwind Traders knows that using data to make decisions is important. They wan
 In carrying out the analysis certain skiils were demonstrated in analyzing and deriving insights. This skills includes checking for data quality, data cleaning and transformation using power query in dealing with missing values and duplicate values, data modelling which was used in creating relationships between the datasets, and performing dax functions (creating calculated fields and columns) to derive more insights during the coure of analysis.
 
 ## Data sourcing
-I had to task myself to review, analyze and create visuals for a dataset obtained on google drive which was provide by data-nex instructor. the dataset is about of northwind traders. The reason for the analysis is to understand sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. 
+I had to task myself to review, analyze and create visuals for a dataset obtained on google drive which was provide by data-nex instructor. the dataset is about of northwind traders. The reason for the analysis is to understand sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. the following were the datasets used for the analysis: categories.csv, customers.csv, employees.csv, order_details.csv, order.csv, product.csv, shippers.csv.
+
 
 ## Data transformation and data cleaning
 In ensuring quality and reliability of the dataset. Columns were checked for duplicates, checked for inconsistencies, errors, and inaccuracies, blank cells and outliers within the dataset. The following were keys steps used in ensuring the dataset was ready for analysis.
@@ -34,7 +35,7 @@ The screenshots below show the data cleaning process before proper analysis was 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/actual%20null%20change.PNG)
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Null%20values%20data%20entry.PNG)
 
-## Data modeling
+## Data modelling
 ### image 2
 In the course of the analysis in other to derive insights in answering the business questions.the datasets were modelled thereby creating relationships in order to derive more insights.
 the image below shows the relationships of the necessary datasets that were required in answering the business questions.
