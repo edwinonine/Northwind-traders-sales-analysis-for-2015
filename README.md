@@ -29,4 +29,7 @@ After reviewing the datasets, it was discovered that the employees dataset has b
 
 ### image
 The screenshots below show the data cleaning process before proper analysis was done.
-!
+
+![]()
+![]()
+![]()
