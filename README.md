@@ -30,7 +30,7 @@ In ensuring quality and reliability of the dataset. Columns were checked for dup
 ## Data cleaning process
 After reviewing the datasets, it was discovered that the employees dataset has blank cells (null value), other datasets has duplicate values which was necessary i checked for data quality of all the datasets provided. the data cleaning process was done using power query.
 
-### image 1
+### Image 1
 The screenshots below show the data cleaning process before proper analysis was done.
 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Capture.PNG)
@@ -58,9 +58,15 @@ After carrying out descriptive analysis, i divided the analysis into two major s
 ## finding 1:
 The first analysis, i had to investigate into orders by country for 2015. during the analysis i had to trim the result into top 1o of order by country to gain more insights, it was discovered that the united states of america ranked highest with a total order of 3152, while venezuela ranked second with an order of 1024 and sweden ranked third with a total order of 911. However, is was discovered that poland with 101, norway with 92 and portugal with 56 ranked lowest in the order by country pecking order.
 
-## image
+## Image
 The screenshot below depicts the top 10 order by country in 2015.
 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/oderbycountry.PNG)
 
 
+## finding 2:
+the second analysis focuses on revenue by category. its discovered that within the different categories of product in which northwind traders are into. beverages ranked the highest in terms of revenue with a total of $116,000, while daily products ranked as the second with a total of $75,000 and confections ranked as third with a total of $55,000. furthermore, other categories which ranked lowest in terms of revenue were as follows: condiments with a revenue of $33,000, produce $31,000 and grains and cereal with $29,000.
+
+## Image
+
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbycategory.PNG)
