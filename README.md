@@ -88,3 +88,9 @@ The fifth analysis, ths analysis focuses on a trend analysis based on order by m
 
 ## Image 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/e.PNG)
+
+## Dashboard
+## Image
+Below is the screenshot of the final report on sales trends for 2015.
+
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/dashboard.PNG)
