@@ -1,4 +1,5 @@
 # Northwind-traders-sales-analysis-for-2015
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Northwind.PNG)
 
 ## Introduction
 This is a power bi project on northwind traders. The project is carried out to review, analyze and derive insight to answer crucial questions and help the northwind traders make data driven decision.
