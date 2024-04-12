@@ -38,9 +38,10 @@ The screenshots below show the data cleaning process before proper analysis was 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Null%20values%20data%20entry.PNG)
 
 ## Data modelling
-### image 2
 In the course of the analysis in other to derive insights in answering the business questions.the datasets were modelled thereby creating relationships in order to derive more insights.
 the image below shows the relationships of the necessary datasets that were required in answering the business questions.
+
+### image 2
 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/modelling.PNG)
 
