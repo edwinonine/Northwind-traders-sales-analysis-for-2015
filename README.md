@@ -71,8 +71,14 @@ the second analysis focuses on revenue by category. its discovered that within t
 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbycategory.PNG)
 
-## finding 3
-the third analysis focuses on top 10 revenue by products. insights wwere gotten, several results was obtained however i had to reduce it to just top 10. it was discovered that thuringer Rostbratwurst ranked highest with a revenue of $33,700, while uncle bob organic dried pears with a revenue of $12,300 and Wimmers gut with arevenue of $10700. i decided to look into the lowest ranked product by category, its was also discovered that Valkoinen suklaa with a revenue of $9,000, tourtierre witha revenue of $7,000 and Tofu witha revenue of $4,000.
+## finding 3:
+the third analysis focuses on top 10 revenue by products. several results were obtained however, i had to reduce it to just top 10. it was discovered that thuringer Rostbratwurst ranked highest with a revenue of $33,700, while uncle bob organic dried pears with a revenue of $12,300 and Wimmers gut with arevenue of $10700. i decided to look into the lowest ranked product by category, its was also discovered that Valkoinen suklaa with a revenue of $9,000, tourtierre witha revenue of $7,000 and Tofu witha revenue of $4,000.
 
 ## Image
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbyproduct.PNG)
+
+## finding 4:
+the fourth analysis focuses on order by category 
+
+## Image
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbycategory.PNG)
