@@ -23,8 +23,9 @@ In ensuring quality and reliability of the dataset. Columns were checked for dup
 2. Data integrity
 3. Check for duplicate values
 4. Check for missing values
-5. Data modelling
-6. Application of dax functions (calculated fields and new columns)
+5. Conditional formatting
+6. Data modelling
+7. Application of dax functions (calculated fields and new columns)
 
 ## Data cleaning process
 After reviewing the datasets, it was discovered that the employees dataset has blank cells (null value), other datasets has duplicate values which was necessary i checked for data quality of all the datasets provided. the data cleaning process was done using power query.
