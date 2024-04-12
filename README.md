@@ -87,4 +87,4 @@ The fourth analysis focuses on order by category. insights obtained show that be
 The fifth analysis, ths analysis focuses on a trend analysis based on order by month. insights obtained, the month of April 2025 had the highest order made with 400700 quantities
 
 ## Image 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbymonth.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/e.PNG)
