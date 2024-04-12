@@ -14,7 +14,7 @@ Northwind Traders knows that using data to make decisions is important. They wan
 In carrying out the analysis certain skiils were demonstrated in analyzing and deriving insights. This skills includes checking for data quality, data cleaning and transformation using power query in dealing with missing values and duplicate values, data modelling which was used in creating relationships between the datasets, and performing dax functions (creating calculated fields and columns) to derive more insights during the coure of analysis.
 
 ## Data sourcing
-I had to task myself to review, analyze and create visuals for a dataset obtained on google drive which was provide by data-nex instructor. the dataset is about of northwind traders. The reason for the analysis is to understand sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. the following were the datasets used for the analysis: categories.csv, customers.csv, employees.csv, order_details.csv, order.csv, product.csv, shippers.csv.
+I had to task myself to review, analyze and create visuals for a dataset obtained on google drive which was provide by data-nex instructor. the dataset is about of northwind traders. The reason for the analysis is to understand sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. the following were the datasets used for the analysis: categories.csv, customers.csv, employees.csv, order_details.csv, order.csv, product.csv, and shippers.csv.
 
 
 ## Data transformation and data cleaning
