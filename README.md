@@ -89,7 +89,7 @@ The fourth analysis focuses on order by category. insights obtained show that be
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbycategory.PNG)
 
 ## finding 5:
-The fifth analysis, ths analysis focuses on a trend analysis based on order by month. insights obtained, the month of April 2025 had the highest order made with 400,700 quantities, while march has the second highest order by month with a total order of 400,100 quantities, January has the third highest order with a total quantities of 300,500 quantities, and February ranked as fourth with a total order of 300100 quantities. However, from the analysis i discovered that northwind traders experienced a decline in orders made by customer for the month of may with a total order of 9,000 quantities.
+The fifth analysis, ths analysis focuses on a trend analysis based on order by month. insights obtained, the month of April 2025 had the highest order made with 74 quantities, while march has the second highest order by month with a total order of 73 quantities, January has the third highest order with a total quantities of 55 quantities, and February ranked as fourth with a total order of 54 quantities. However, from the analysis i discovered that northwind traders experienced a decline in orders made by customer for the month of may with a total order of 14 quantities.
 
 ## Image 
 ![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbymonth.PNG)
