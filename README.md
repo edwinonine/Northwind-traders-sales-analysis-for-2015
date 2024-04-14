@@ -108,7 +108,7 @@ Below is the screenshot showing the product performance for 2015
 
 I had to carry out a correlation analysis with total sales (revenue), quantity and total order to see if there are any relationship that exist between the variables, from my analysis it was perfect negative relationship.
 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/Correlation.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/correlation.PNG)
 
 ## Actions and Recommendations
 
