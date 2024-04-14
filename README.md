@@ -66,7 +66,7 @@ The first analysis, i had to investigate into orders by country for 2015. during
 ## Image
 The screenshot below depicts the top 10 order by country in 2015.
 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/oderbycountry.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbycountry.PNG)
 
 
 ## finding 2:
@@ -74,31 +74,31 @@ the second analysis focuses on revenue by category. its discovered that within t
 
 ## Image
 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbycategory.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revenuebycategory.PNG)
 
 ## finding 3:
 The third analysis focuses on top 10 revenue by products. several results were obtained however, i had to reduce it to just top 10. it was discovered that thuringer Rostbratwurst ranked highest with a revenue of $33,700, while uncle bob organic dried pears with a revenue of $12,300 and Wimmers gut with arevenue of $10700. i decided to look into the lowest ranked product by category, its was also discovered that Valkoinen suklaa with a revenue of $9,000, tourtierre witha revenue of $7,000 and Tofu witha revenue of $4,000.
 
 ## Image
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbyproduct.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revenuebyproduct.PNG)
 
 ## finding 4:
 The fourth analysis focuses on order by category. insights obtained show that beverages ranked as the highest category with a total order of 300700 quantities made by customers, while sea foods ranked and daily products rank second respectively with a total order of 200700 quantities respectively, meat and poultry with an order of 100100 quantities and produce with a total order of 30000 quantities.
 
 ## Image
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/revbycategory.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbycategory.PNG)
 
 ## finding 5:
 The fifth analysis, ths analysis focuses on a trend analysis based on order by month. insights obtained, the month of April 2025 had the highest order made with 400,700 quantities, while march has the second highest order by month with a total order of 400,100 quantities, January has the third highest order with a total quantities of 300,500 quantities, and February ranked as fourth with a total order of 300100 quantities. However, from the analysis i discovered that northwind traders experienced a decline in orders made by customer for the month of may with a total order of 9,000 quantities.
 
 ## Image 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/e.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/orderbymonth.PNG)
 
-## Dashboard
+## Report
 ## Image
 Below is the screenshot of the final report on sales trends for 2015.
 
-![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/dashboard.PNG)
+![](https://github.com/edwinonine/Northwind-traders-sales-analysis-for-2015/blob/main/report.PNG)
 
 ## Product Performance
 ## Image
