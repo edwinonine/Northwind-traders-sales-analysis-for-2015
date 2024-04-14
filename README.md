@@ -9,6 +9,10 @@ Northwind Traders, a company known for distributing gourmet food products, wants
 In their analysis, Northwind Traders wants to look closely at sales trends, how customers buy things, and which products are selling well based on what was achieved in the 1st half of 2015. 
 They believe that by understanding these things better, they can make smarter choices about what to sell and how to sell it. This means they can make sure they have the right products in stock and keep their customers happy.
 Northwind Traders knows that using data to make decisions is important. They want to use this information to find ways to make their business better and keep up with what their customers want.
+Below are som of the business questions they need to find answers:
+1. What makes customers keep coming back, and how can Northwind Traders use this to get more loyal customers?
+2. Are there certain products that are selling faster than others, and how can Northwind Traders make sure they always have enough of these in stock?
+3. Do different types of customers buy different things, and how can Northwind Traders use this information to offer products that people want?
 
 ## Skills demonstrated
 In carrying out the analysis certain skiils were demonstrated in analyzing and deriving insights. This skills includes checking for data quality, data cleaning and transformation using power query in dealing with missing values and duplicate values, data modelling which was used in creating relationships between the datasets, and performing dax functions (creating calculated fields and columns) to derive more insights during the coure of analysis.
